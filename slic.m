@@ -173,13 +173,3 @@ T=uint8(T);
 im= uint8(im);
 subplot(121); imshow(im); title('original')
 subplot(122); imshow(T); title('SLIC')
-
-
-
-        
-
-
-
-
-
-
